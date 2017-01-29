@@ -1,7 +1,5 @@
 package algorithm;
 
-import org.junit.runner.JUnitCore;
-
 import exceptions.TriangleException;
 import interfaces.Calculator;
 
@@ -52,10 +50,6 @@ public class TriangleCalcImpl implements Calculator{
         return mArray.clone();
     }
 
-	public static void main(String[] args) throws Exception {
-		JUnitCore.main(
-			"br.com.fiumari.hell-triangle.src.test.java.algorithmTests.CalculateTriangleImplTest");
-	}
 
 
 }
