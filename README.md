@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/joaomfiumari/challenge-hell-triangle.svg?branch=master)](https://travis-ci.org/joaomfiumari/challenge-hell-triangle)
 
 Hell Triangle - B2W Challenge
 
@@ -13,4 +12,4 @@ Maven was used as my package manager. JUnit(v4.12) was the test framework used, 
 
 mvn test inside the directory or just see at:
 
-https://travis-ci.org/joaomfiumari/challenge-hell-triangle
+[![Build Status](https://travis-ci.org/joaomfiumari/challenge-hell-triangle.svg?branch=master)](https://travis-ci.org/joaomfiumari/challenge-hell-triangle)
