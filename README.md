@@ -1,19 +1,16 @@
-#Hell Triangle - B2W Challenge - João Paulo Maiamaral Fiumari 29/01/2017
+[![Build Status](https://travis-ci.org/joaomfiumari/challenge-hell-triangle.svg?branch=master)](https://travis-ci.org/joaomfiumari/challenge-hell-triangle)
 
-#PROGRAMMING LANGUAGE:
+Hell Triangle - B2W Challenge
 
-#Java was my choice as programming language, because is the language that I am more skilled. I've chose Java 8 because is the most updated version, I could have used Streams #and other new features but I've decided to let my code more readable. 
+#Programming Language:
+Java was my choice as programming language because is the programming language that I am more experienced with.I've chose JDK8 because is the updated version. For this reason I had the option to use Streams and other features but I've decided to not use so I would my code more readable.
 
-#PACKAGE MANAGER AND TEST FRAMEWORK:
+#Package manager and Test Framework:
 
-#Maven was used as my package manager, I've decided to use JUnit 4.12 as my test framework, because I am more skilled using it. 
+Maven was used as my package manager. JUnit(v4.12) was the test framework used, and I also used a continuous integration host (Travis CI) to automate the build and tests. So as soon as I update my code repository on GitHub, the build and all the tests are upload on my CI host (Travis CI) 
 
-#RUN CONFIGURATIONS:
+#Run config:
 
-#Inside the directory:
-
-mvn test 
-
-#or you are able to see at:
+mvn test inside the directory or just see at:
 
 https://travis-ci.org/joaomfiumari/challenge-hell-triangle
