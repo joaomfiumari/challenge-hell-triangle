@@ -1,5 +1,5 @@
 
-Hell Triangle
+Hell Triangle or Euler Project 67
 
 #Programming Language:
 Java was my choice as programming language because is the programming language that I am more experienced with. I've chose JDK8 because is the updated version. For this reason I had the option to use Streams and other features but I've decided to not use so I would let my code more readable.
